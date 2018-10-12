@@ -3,7 +3,6 @@
 * Ce service gère la création des évènements, l’affichage, la modification ainsi que la gestion
                   de conflit des évènements avec le calendrier de l’utilisateur.
               
-              
 ## Member-Service (User-service) : 
 * Ce service gère l’authentification, la création, ainsi qu’au niveau sécurité la gestion de token pour l’utilisateur. Finalement, nous utilisons ce service pour récupérer les informations de la personnes authentifiés et toutes autres tâches reliés au profil de l’utilisateur.
 
